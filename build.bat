@@ -1,8 +1,8 @@
 cd mp-tanks-static
-npm install
-npm run build
+call npm install
+call npm run build
 cd ../mp-tanks
-npm install
-npm run build
+call npm install
+call npm run build
 rmdir /s /q dist
-Xcopy /S ..\mp-tanks-static\dist dist
+Xcopy /s ..\mp-tanks-static\dist dist\
