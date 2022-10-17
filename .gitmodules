@@ -1,0 +1,6 @@
+[submodule "mp-tanks"]
+	path = mp-tanks
+	url = https://github.com/nanoGray/mp-tanks
+[submodule "mp-tanks-static"]
+	path = mp-tanks-static
+	url = https://github.com/nanoGray/mp-tanks-static
